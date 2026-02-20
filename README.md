@@ -36,4 +36,4 @@ Device Distribution
 
 Screenshots / Demos
 Show what the dashboard looks like.
-Example:- https://github.com/DivTamrakar/website-analytics-dashboard/blob/main/Screenshot_website-analytics-dashboard.png
+Example:- ![Alt text](https://github.com/DivTamrakar/website-analytics-dashboard/blob/main/Screenshot_website-analytics-dashboard.png)
