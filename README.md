@@ -1,3 +1,7 @@
+Screenshots / Demos
+Show what the dashboard looks like.
+Example:- ![Alt text](https://github.com/DivTamrakar/website-analytics-dashboard/blob/main/Screenshot_website-analytics-dashboard.png)
+
 # website-analytics-dashboard
 A dashboard to monitor and analyse our company’s website performance metrics and user engagement.
 
