@@ -37,7 +37,3 @@ Top Performing Pages
 Active Users by City
 Active Users by Interests
 Device Distribution
-
-Screenshots / Demos
-Show what the dashboard looks like.
-Example:- ![Alt text](https://github.com/DivTamrakar/website-analytics-dashboard/blob/main/Screenshot_website-analytics-dashboard.png)
